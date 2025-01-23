@@ -1,11 +1,12 @@
 // Importing the express library we've installed; This library allows us to create a simple web server.
-var express = require('express');
+let express = require('express');
 
 // Create the web server.
-var app = express();
+let app = express();
 
 // Tell the web server to use the "public" folder for serving static files (html, css, javascript, media.)
 app.use(express.static('public'));
+
 // Create a test endpoint; This is not required, but it allows us to verify whether the server is working.
 app.get('/test', function (req, res) {
   res.send('Hello World!')
