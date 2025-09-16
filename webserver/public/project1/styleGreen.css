@@ -1,0 +1,37 @@
+   /* backgound */
+      body {
+        background-color: rgb(159, 250, 188);
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 25px;
+      }
+      /* heading */
+      h1 {
+        margin-top: 10px;
+        color: rgb(43, 100, 0);
+        font-family: verdana;
+        font-size: 300%;
+      }
+      h2 {
+        color: rgb(28, 138, 0);
+        font-family: trebuchet;
+        font-size: 250%;
+      }
+      h3 {
+        color: rgb(0, 160, 19);
+        font-family: georgia;
+        font-size: 200%;
+      }
+      /* wrinting */
+      p {
+        color: rgb(6, 185, 0);
+        font-family: courier;
+        font-size: 175%;
+      }
+
+      a {
+        text-decoration: none;
+        color: rgb(0, 231, 54);
+        font-family: courier;
+        font-size: 150%;
+      }

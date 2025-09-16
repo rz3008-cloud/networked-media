@@ -1,0 +1,96 @@
+/* backgound */
+body {
+  background-color: rgb(159, 250, 188);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 25px;
+  position: relative;
+  z-index: 0;
+}
+/* heading */
+h1 {
+  margin-top: 10px;
+  color: rgb(45, 190, 252);
+  font-family: verdana;
+  font-size: 300%;
+}
+h2 {
+  color: rgb(255, 183, 0);
+  font-family: trebuchet;
+  font-size: 250%;
+}
+h3 {
+  color: rgb(162, 97, 248);
+  font-family: georgia;
+  font-size: 200%;
+}
+/* wrinting */
+p {
+  color: rgb(254, 47, 130);
+  font-family: courier;
+  font-size: 175%;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(215, 26, 102);
+  font-family: courier;
+  font-size: 150%;
+}
+
+/* z-index */
+
+/* table things here */
+table {
+  /* border-collapse: collapse; */
+  width: 100%;
+  color: rgb(252, 252, 21);
+  border: 5px solid rgb(248, 113, 165);
+  font-family: courier;
+  border-radius: 10px;
+}
+
+td,
+th {
+  border: 2px dashed rgb(159, 250, 188);
+  text-align: left;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+tr:nth-child(odd) {
+  background-color: rgb(248, 153, 191);
+}
+
+tr:nth-child(even) {
+  background-color: rgb(250, 193, 215);
+}
+
+tr,
+th:hover {
+  background-color: rgb(248, 113, 165);
+}
+/* image frount right */
+.myImgFR {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  z-index: 10;
+}
+/* image back left ice cream*/
+.myImgBLice {
+  position: absolute;
+  top: -425px;
+  left: -45px;
+  z-index: -10;
+  opacity: 0.7
+}
+
+/* image back left space*/
+.myImgBLspa{
+  position: absolute;
+  top: -268px;
+  left: -232px;
+  z-index: -10;
+  opacity: 0.8
+}
