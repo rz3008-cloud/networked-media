@@ -1,0 +1,236 @@
+body {
+  background-color: rgb(187, 17, 17);
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+  z-index: 0;
+}
+
+#button {
+  position: absolute;
+  top: 60%;
+  right: 45%;
+  z-index: 10;
+  background-color: rgb(222, 222, 222);
+}
+
+.potime1 {
+  background-color: rgb(184, 184, 184);
+  height: 40%;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+.potime2 {
+  background-color: rgb(164, 164, 164);
+  height: 90%;
+  width: 60%;
+  margin: 0;
+}
+.potime3 {
+  background-color: rgb(98, 98, 98);
+  height: 90%;
+  width: 20%;
+  margin: 0;
+}
+
+#timeHere {
+  text-align: center;
+  font-size: 85px;
+}
+
+.c1 {
+  font-size: 20px;
+  text-align: center;
+  font-family: courier;
+}
+
+.po1 {
+  background-color: rgb(184, 184, 184);
+  height: 10%;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.po2 {
+  height: 90%;
+  width: 20%;
+  background-color: rgb(98, 98, 98);
+  margin: 0.5%;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+}
+
+/* set up */
+
+.p1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  z-index: 5;
+}
+
+.p2 {
+  opacity: 1;
+  display: block;
+}
+
+/* for page switch */
+#page1 {
+  opacity: 1;
+  z-index: 5;
+}
+
+#page2 {
+  opacity: 0;
+}
+
+.back1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  z-index: 4;
+}
+
+.back2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+}
+/* big sets */
+.tc {
+  position: absolute;
+  height: 5%;
+  width: 5%;
+  background-color: rgb(207, 207, 207);
+  border-radius: 100px;
+  z-index: 3;
+}
+
+.tl {
+  position: absolute;
+  background-color: white;
+  z-index: 2;
+}
+
+.tg {
+  position: absolute;
+  width: 20%;
+  height: 15%;
+  background-color: rgb(163, 163, 163);
+  border-radius: 20px;
+  z-index: 1;
+}
+
+/* block */
+.bcol1 {
+  left: 0%;
+}
+.bcol2 {
+  left: 27%;
+}
+.bcol3 {
+  left: 55%;
+}
+.bcol4 {
+  left: 80%;
+}
+
+.brow1 {
+  top: 5%;
+}
+.brow2 {
+  top: 22%;
+}
+.brow3 {
+  top: 39%;
+}
+.brow4 {
+  top: 56%;
+}
+.brow5 {
+  top: 73%;
+}
+.brow6 {
+  top: 90%;
+}
+
+/* line */
+.vline {
+  top: 0;
+  width: 0.5%;
+  height: 100%;
+}
+
+.hline {
+  left: 0;
+  height: 0.5%;
+  width: 100%;
+}
+/* dots */
+.col1 {
+  left: 5%;
+}
+.col2 {
+  left: 25%;
+}
+.col3 {
+  left: 45%;
+}
+.col4 {
+  left: 65%;
+}
+.col5 {
+  left: 85%;
+}
+
+.row1 {
+  top: 6%;
+}
+.row2 {
+  top: 14%;
+}
+.row3 {
+  top: 22%;
+}
+.row4 {
+  top: 30%;
+}
+.row5 {
+  top: 38%;
+}
+.row6 {
+  top: 46%;
+}
+.row7 {
+  top: 54%;
+}
+.row8 {
+  top: 62%;
+}
+.row9 {
+  top: 70%;
+}
+.row10 {
+  top: 78%;
+}
+.row11 {
+  top: 86%;
+}
+.row12 {
+  top: 94%;
+}
