@@ -1,0 +1,302 @@
+.image{
+    width: 200px;
+    object-fit: cover;
+}
+
+.image > img{
+    object-fit: cover;
+    width: 200px;
+}
+
+body{
+    margin: 0;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: rgb(49, 38, 38);
+}
+
+/* --- */
+body.homeP {
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: rgb(255, 223, 186); 
+}
+ button:hover {
+    transform: translateY(-5%);
+}
+h1 {
+    text-align: center;
+    font-size: 50;     
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+
+
+/* home page */
+/* grid */
+.homeP .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+    width: 80%;
+    height: 80%;
+}
+
+/* Button*/
+.TL,
+.BR {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.homeP button {
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+    font-family: inherit;
+}
+.homePland { background-color:  rgb(255, 189, 128); }  
+.homePmembers { background-color: rgb(255, 179, 186); }  
+.homePevents { background-color: rgb(255, 255, 186); }  
+.homePjoin { background-color: rgb(186, 225, 255); }  
+
+/* Text*/
+.TR,
+.BL {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    background-color: rgb(186, 255, 201); 
+}
+
+
+/* land hear */
+.land-page{
+background-color: rgb(255, 179, 186);
+}
+
+.land-page button {
+    border: none;
+    border-radius: 25px;
+    padding: 12px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: inherit;
+    margin: 1.5%;
+}
+
+
+/* Individual land button colors */
+.land1 { background-color: rgb(120, 190, 90)}   /* Pet Park */
+.land2 { background-color: rgb(70, 160, 110)}   /* Rain Forest */
+.land3 { background-color: rgb(240, 130, 60)}   /* Halloween */
+.land4 { background-color: rgb(95, 165, 255)}   /* Party Time */
+.land5 { background-color: rgb(125, 125, 125)}   /* New York */
+.land6 { background-color: rgb(220, 95, 95)}   /* High School */
+
+.land-page button:hover {
+    transform: translateY(-5%);
+}
+
+/* memeber page */
+.member-page{
+  background-color: rgb(255, 179, 186);
+}
+
+.member-page li{
+  margin-left: 40%;
+}
+
+/* event page */
+.event-page{
+  background-color: rgb(255, 179, 186);
+}
+.event-page li{
+  margin-left: 40%;
+}
+
+/* join page */
+.join-page{
+  background-color: rgb(255, 179, 186);
+}
+.join-page li{
+  margin-left: 35%;
+}
+
+
+/* land things here */
+/* form genral */
+.form {
+  border-radius: 20px;
+  padding: 30px;
+  width: 90%;
+  max-width: 400px;
+  margin: 50px auto;
+}
+
+.form input[type="text"],
+.form input[type="file"] {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: 12px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  background-color: rgb(229, 229, 229);
+  font-family: inherit;
+}
+
+button,
+input[type="submit"],
+input[type="file"]::file-selector-button {
+  border-radius: 25px;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  font-family: inherit;
+  color: rgb(55, 5, 5);
+}
+
+/* l1 */
+.land1 .form {
+  background-color: rgb(250, 240, 225);   /* Soft Paw Beige */
+  border: 3px solid rgb(245, 205, 110);   /* Golden Fur */
+}
+.land1 button,
+.land1 input[type="submit"],
+.land1 input[type="file"]::file-selector-button {
+  background-color: rgb(120, 190, 90);   /* Grass Green */
+  border: 2px solid rgb(245, 205, 110);
+}
+.land1 button:hover,
+.land1 input[type="submit"]:hover,
+.land1 input[type="file"]::file-selector-button:hover {
+  background-color: rgb(245, 205, 110);
+  border-color: rgb(120, 190, 90);
+}
+
+/* l2 */
+.land2 .form {
+  background-color: rgb(180, 210, 155);   
+  border: 3px solid rgb(95, 160, 190);   
+}
+.land2 button,
+.land2 input[type="submit"],
+.land2 input[type="file"]::file-selector-button {
+  background-color: rgb(70, 160, 110);   
+  border: 2px solid rgb(95, 160, 190);
+}
+.land2 button:hover,
+.land2 input[type="submit"]:hover,
+.land2 input[type="file"]::file-selector-button:hover {
+  background-color: rgb(95, 160, 190);
+  border-color: rgb(70, 160, 110);
+}
+
+/*l3*/
+.land3 .form {
+  background-color: rgb(255, 250, 245);  
+  border: 3px solid rgb(140, 90, 180);   
+}
+.land3 button,
+.land3 input[type="submit"],
+.land3 input[type="file"]::file-selector-button {
+  background-color: rgb(240, 130, 60);   
+  border: 2px solid rgb(45, 45, 45);    
+}
+.land3 button:hover,
+.land3 input[type="submit"]:hover,
+.land3 input[type="file"]::file-selector-button:hover {
+  background-color: rgb(45, 45, 45);
+  border-color: rgb(240, 130, 60);
+}
+
+/* l4*/
+.land4 .form {
+  background-color: rgb(255, 235, 130);   
+  border: 3px solid rgb(255, 130, 195);  
+}
+.land4 button,
+.land4 input[type="submit"],
+.land4 input[type="file"]::file-selector-button {
+  background-color: rgb(95, 165, 255);   
+  border: 2px solid rgb(255, 130, 195);
+}
+.land4 button:hover,
+.land4 input[type="submit"]:hover,
+.land4 input[type="file"]::file-selector-button:hover {
+  background-color: rgb(255, 130, 195);
+  border-color: rgb(95, 165, 255);
+}
+
+/* l5*/
+.land5 .form {
+  background-color: rgb(240, 240, 240);   
+  border: 3px solid rgb(250, 220, 100);   
+}
+.land5 button,
+.land5 input[type="submit"],
+.land5 input[type="file"]::file-selector-button {
+  background-color: rgb(125, 125, 125);  
+  border: 2px solid rgb(250, 220, 100);
+}
+.land5 button:hover,
+.land5 input[type="submit"]:hover,
+.land5 input[type="file"]::file-selector-button:hover {
+  background-color: rgb(250, 220, 100);
+  border-color: rgb(125, 125, 125);
+
+}
+
+/* l6*/
+.land6 .form {
+  background-color: rgb(250, 250, 245);   
+  border: 3px solid rgb(95, 135, 205);    
+}
+.land6 button,
+.land6 input[type="submit"],
+.land6 input[type="file"]::file-selector-button {
+  background-color: rgb(220, 95, 95);    
+  border: 2px solid rgb(95, 135, 205);
+}
+.land6 button:hover,
+.land6 input[type="submit"]:hover,
+.land6 input[type="file"]::file-selector-button:hover {
+  background-color: rgb(95, 135, 205);  
+  border-color: rgb(220, 95, 95);
+}
+
+/* nav set*/
+.nav {
+    background-color: rgb(255, 223, 186); 
+    padding: 15px;                     
+    display: flex;
+    justify-content: space-evenly;       
+    align-items: center;
+}
+
+.nav button {
+    background-color: rgb(186, 255, 201); 
+    color: rgb(0, 62, 14);
+    border: none;
+    border-radius: 25px;
+    padding: 12px 40px;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+/* :) */
