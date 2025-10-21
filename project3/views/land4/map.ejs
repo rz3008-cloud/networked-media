@@ -1,0 +1,34 @@
+<html>
+<head>
+    <title>Map Page - Land 4</title>
+    <link href="/style.css" rel="stylesheet">
+</head>
+<body class="land4">
+
+    <!-- hidden form to submit mapped coordinates -->
+    <form id="mapForm" action="/land4/map" method="POST" style="display:none">
+        <input type="hidden" name="x" id="xCoord">
+        <input type="hidden" name="y" id="yCoord">
+    </form>
+
+    <!-- display previously mapped images -->
+    <% for (let p of allPosts) { %>
+        <% if (p.x !== undefined && p.y !== undefined) { %>
+            <div class="image" style="position:absolute; left:<%= p.x %>%; top:<%= p.y %>%;">
+                <img class="mapped-img" src="<%= p.imgSrc %>">
+            </div>
+        <% } %>
+    <% } %>
+
+    <!-- bottom-right note -->
+    <div class="maping-note" >
+       <p>💡💡💡Click anywhere on the map to place your image💡💡💡</p> 
+    </div>
+
+    <!-- pass data to external JS -->
+    <script>
+        const allPostsLength = <%= allPosts.length %>;
+    </script>
+    <script src="/map.js"></script>
+</body>
+</html>

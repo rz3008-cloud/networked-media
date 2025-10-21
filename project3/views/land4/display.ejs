@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Display - Land 4</title>
+    <link href="/style.css" rel="stylesheet">
+  </head>
+  <body class="land4">
+    <!-- nav -->
+    <%- include('../nav2') %>
+
+    <!-- Button  -->
+    <div class="display-button">
+      <a href="/land4/post">
+        <button>Make a Post</button>
+      </a>
+    </div>
+
+    <% for (let p of allPosts) { %>
+      <% if (p.x !== undefined && p.y !== undefined) { %>
+        <div class="image" style="position:absolute; left:<%= p.x %>%; top:<%= p.y %>%;">
+          <img class="mapped-img" src="<%= p.imgSrc %>">
+        </div>
+      <% } %>
+    <% } %>
+  </body>
+</html>
+
