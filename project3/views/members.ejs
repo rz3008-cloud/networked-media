@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Members</title>
+    <link href="/style.css" rel="stylesheet">
+  </head>
+  <body class = "member-page">
+    <%- include('nav') %>
+
+    <h1>Members</h1>
+
+    <ul class="member-list">
+      <% allPosts.forEach(post => { %>
+        <% if (post.name && post.name.trim() !== '') { %>
+          <li><%= post.name %></li>
+        <% } %>
+      <% }) %>
+    </ul>
+  </body>
+</html>
