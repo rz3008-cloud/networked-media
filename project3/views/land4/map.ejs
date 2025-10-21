@@ -5,13 +5,13 @@
 </head>
 <body class="land4">
 
-    <!-- hidden form to submit mapped coordinates -->
+    <!-- coordinates -->
     <form id="mapForm" action="/land4/map" method="POST" style="display:none">
         <input type="hidden" name="x" id="xCoord">
         <input type="hidden" name="y" id="yCoord">
     </form>
 
-    <!-- display previously mapped images -->
+    <!-- images -->
     <% for (let p of allPosts) { %>
         <% if (p.x !== undefined && p.y !== undefined) { %>
             <div class="image" style="position:absolute; left:<%= p.x %>%; top:<%= p.y %>%;">
@@ -20,12 +20,12 @@
         <% } %>
     <% } %>
 
-    <!-- bottom-right note -->
+    <!-- note -->
     <div class="maping-note" >
        <p>💡💡💡Click anywhere on the map to place your image💡💡💡</p> 
     </div>
 
-    <!-- pass data to external JS -->
+    <!--  -->
     <script>
         const allPostsLength = <%= allPosts.length %>;
     </script>
