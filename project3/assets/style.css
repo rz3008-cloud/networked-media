@@ -1,6 +1,7 @@
 .image{
     width: 200px;
     object-fit: cover;
+    position:absolute;
 }
 
 .image > img{
@@ -100,12 +101,12 @@ background-color: rgb(255, 179, 186);
 
 
 /* Individual land button colors */
-.land1 { background-color: rgb(120, 190, 90)}   /* Pet Park */
-.land2 { background-color: rgb(70, 160, 110)}   /* Rain Forest */
-.land3 { background-color: rgb(240, 130, 60)}   /* Halloween */
-.land4 { background-color: rgb(95, 165, 255)}   /* Party Time */
-.land5 { background-color: rgb(125, 125, 125)}   /* New York */
-.land6 { background-color: rgb(220, 95, 95)}   /* High School */
+.land1 { background-color: rgb(120, 190, 90)}  
+.land2 { background-color: rgb(70, 160, 110)}  
+.land3 { background-color: rgb(240, 130, 60)} 
+.land4 { background-color: rgb(95, 165, 255)}  
+.land5 { background-color: rgb(125, 125, 125)} 
+.land6 { background-color: rgb(220, 95, 95)}  
 
 .land-page button:hover {
     transform: translateY(-5%);
@@ -172,13 +173,13 @@ input[type="file"]::file-selector-button {
 
 /* l1 */
 .land1 .form {
-  background-color: rgb(250, 240, 225);   /* Soft Paw Beige */
-  border: 3px solid rgb(245, 205, 110);   /* Golden Fur */
+  background-color: rgb(250, 240, 225);  
+  border: 3px solid rgb(245, 205, 110);  
 }
 .land1 button,
 .land1 input[type="submit"],
 .land1 input[type="file"]::file-selector-button {
-  background-color: rgb(120, 190, 90);   /* Grass Green */
+  background-color: rgb(120, 190, 90);  
   border: 2px solid rgb(245, 205, 110);
 }
 .land1 button:hover,
