@@ -62,12 +62,12 @@ async function makeStatus(textStatus){
     //console.log(status.url)
 }
 
-// setInterval( ()=>{
+setInterval( ()=>{
 
-//     retrieveData()
+     retrieveData()
     
-// }, 30000)
+ }, 30000)
 
 //5400000
 // makeStatus()
-retrieveData()
+//retrieveData()
