@@ -36,7 +36,7 @@ async function retrieveData(){
         let randNum4 = Math.floor(Math.random() * emojis.length)
         let randEmo = emojis[randNum4];
 
-        makeStatus("李玉莹突然写了一首新诗: \n"+poem +" \n"+randEmo)
+        makeStatus("李玉莹刚刚写了一首新诗: \n"+poem +" \n"+randEmo)
 
     }else{//think of word
         //yext
@@ -56,7 +56,7 @@ async function makeStatus(textStatus){
 
     const status = await masto.v1.statuses.create({
         status: textStatus,
-        visibility: "private",
+        visibility: "public",
     })
 
     //console.log(status.url)
@@ -64,10 +64,10 @@ async function makeStatus(textStatus){
 
 setInterval( ()=>{
 
-     retrieveData()
+    retrieveData()
     
- }, 30000)
+}, 7200000)
 
 //5400000
 // makeStatus()
-//retrieveData()
+// retrieveData()
