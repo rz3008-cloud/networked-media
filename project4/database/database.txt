@@ -1,0 +1,729 @@
+[
+  {
+    "date": "11/12/2025, 8:47:12 PM",
+    "text": "Khotsong, Ke u lakaletsa letsatsi le monate. Nomoro ea mahlohonolo a hora ke:",
+    "timestamp": 1762980432436,
+    "_id": "0FFvKZY18IFCvmtg"
+  },
+  {
+    "date": "11/12/2025, 8:42:22 PM",
+    "text": "Tere päevast, Soovin sulle ilusat päeva. Tunni õnnenumber on:",
+    "timestamp": 1762980142319,
+    "_id": "0SaEZZ7f5OLRVV9B"
+  },
+  {
+    "date": "11/12/2025, 8:20:44 PM",
+    "text": "Dobrý den, Přeji ti hezký den. Hodinové šťastné číslo je:",
+    "timestamp": 1762978844323,
+    "_id": "1BesNDFDOiXGUfQV"
+  },
+  {
+    "date": "11/12/2025, 8:44:12 PM",
+    "text": "শুভেচ্ছা, আপনার দিনটি শুভ হোক। প্রতি ঘণ্টার ভাগ্যবান সংখ্যাটি হলো:",
+    "timestamp": 1762980252569,
+    "_id": "1doWO7q1bPpadBG1"
+  },
+  {
+    "date": "11/12/2025, 8:46:57 PM",
+    "text": "እንደምን አለሽ/አለህ, መልካም ቀን ይሁንልዎ. የሰዓት ዕድለኛ ቁጥር:",
+    "timestamp": 1762980417254,
+    "_id": "1iCncREkInGutLVP"
+  },
+  {
+    "date": "11/12/2025, 8:21:12 PM",
+    "text": "Добър ден, Желая ти хубав ден. Часовото късметлийско число е:",
+    "timestamp": 1762978872537,
+    "_id": "22EbiuV90OjFn3su"
+  },
+  {
+    "date": "11/12/2025, 8:47:45 PM",
+    "text": "Ni sa yadra, Domona ni nomu siga vinaka. Na naba ni kalougata ni siga nikua ena dua na aua sai koya:",
+    "timestamp": 1762980465025,
+    "_id": "260NeCZzfzFHqaLw"
+  },
+  {
+    "date": "11/12/2025, 8:43:52 PM",
+    "text": "İyi günler, İyi günler dilerim. Saatin şanslı numarası:",
+    "timestamp": 1762980232059,
+    "_id": "3RNVHjEfFD93iGhM"
+  },
+  {
+    "date": "11/12/2025, 8:41:58 PM",
+    "text": "Вітаю, Бажаю гарного дня. Щасливе число по годинах:",
+    "timestamp": 1762980118699,
+    "_id": "489oTBCQxYfw3HHH"
+  },
+  {
+    "date": "11/12/2025, 8:51:16 PM",
+    "text": "Witam, Życzę miłego dnia. Godzinna szczęśliwa liczba to:",
+    "timestamp": 1762980676084,
+    "_id": "4vx8nkqkILmeueNJ"
+  },
+  {
+    "date": "11/12/2025, 8:44:26 PM",
+    "text": "Selamat siang, Semoga harimu menyenangkan. Angka keberuntungan per jam adalah:",
+    "timestamp": 1762980266075,
+    "_id": "5IAXZdNVs149WsPZ"
+  },
+  {
+    "date": "11/12/2025, 8:45:01 PM",
+    "text": "မင်္ဂလာရှိသောနံနက်ခင်းပါ၊ သင့်နေ့လေးကောင်းပါစေ။ တစ်နာရီကံကောင်းတဲ့နံပါတ်ကတော့:",
+    "timestamp": 1762980301141,
+    "_id": "5aDJUXhulUhVPigX"
+  },
+  {
+    "date": "11/12/2025, 8:20:26 PM",
+    "text": "God dag, Ønsker deg en fin dag. Timevis lykketallet er:",
+    "timestamp": 1762978826337,
+    "_id": "67CfLolxE1yUhBVi"
+  },
+  {
+    "date": "11/12/2025, 8:47:51 PM",
+    "text": "Mālō ē tau lava, Fai ha ʻaho lelei. Ko e nōmeli laki ʻi he houa ko e:",
+    "timestamp": 1762980471015,
+    "_id": "67Y1d3tz0bAXXJVP"
+  },
+  {
+    "date": "11/12/2025, 8:49:58 PM",
+    "text": "Wilujeng énjing, Mugi-mugi dinten anjeun sae. Nomer kaberuntungan per jam nyaéta:",
+    "timestamp": 1762980598820,
+    "_id": "74iu1BSGlYOS6CkG"
+  },
+  {
+    "date": "11/12/2025, 8:48:46 PM",
+    "text": "शुभम् अस्तु, भवतु ते शुभं दिनम्। प्रतिघण्टा भाग्यशाली संख्या:",
+    "timestamp": 1762980526018,
+    "_id": "7EyXB6u06rjwjttw"
+  },
+  {
+    "date": "11/12/2025, 8:43:59 PM",
+    "text": "Chào bạn, Chúc bạn một ngày tốt lành. Con số may mắn hàng giờ là:",
+    "timestamp": 1762980239399,
+    "_id": "8AFM8TlDwAy5o0mU"
+  },
+  {
+    "date": "11/12/2025, 8:48:51 PM",
+    "text": "صبح جو سلام، اوهان کي سٺو ڏينهن گهڻو. في گھنٽو خوش نصيب نمبر آهي:",
+    "timestamp": 1762980531453,
+    "_id": "8BndbRKkO9Z73RXE"
+  },
+  {
+    "date": "11/12/2025, 8:46:36 PM",
+    "text": "Uvuyo, Ndikunqwenelela usuku oluhle. Inombolo yethamsanqa yeli lixa leeyure ngu:",
+    "timestamp": 1762980396070,
+    "_id": "92cBleE3vW5TANfG"
+  },
+  {
+    "date": "11/12/2025, 8:43:08 PM",
+    "text": "今日は、良い一日を。時間ごとのラッキーナンバーは:",
+    "timestamp": 1762980188422,
+    "_id": "94LBzrCGw2xusGp8"
+  },
+  {
+    "date": "11/12/2025, 8:47:25 PM",
+    "text": "Maayong adlaw, Manghinaot ko og nindot nga adlaw nimo. Ang hourly lucky number karon mao ni:",
+    "timestamp": 1762980445370,
+    "_id": "9Z1mom41JILIoyWn"
+  },
+  {
+    "date": "11/12/2025, 8:50:59 PM",
+    "text": "¡Hola, Que tengas un buen día. El número de la suerte de la hora es:",
+    "timestamp": 1762980659659,
+    "_id": "AVEwUN4gXandA0Jt"
+  },
+  {
+    "date": "11/12/2025, 8:20:32 PM",
+    "text": "Goddag, Ønsker dig en god dag. Timens lykkenummer er:",
+    "timestamp": 1762978832598,
+    "_id": "ArcaeY9bg0AjMSMn"
+  },
+  {
+    "date": "11/12/2025, 8:19:28 PM",
+    "text": "Guten Tag, Ich wünsche dir einen schönen Tag. Die stündliche Glückszahl ist:",
+    "timestamp": 1762978768121,
+    "_id": "AzoMAdfgtigYYZHf"
+  },
+  {
+    "date": "11/12/2025, 8:43:45 PM",
+    "text": "مساء الخير, أتمنى لك يوماً سعيداً. رقم الحظ الساعي هو:",
+    "timestamp": 1762980225120,
+    "_id": "BplHFZOAUGOx5dN7"
+  },
+  {
+    "date": "11/12/2025, 8:21:05 PM",
+    "text": "Dobar dan, Želim ti ugodan dan. Sretni broj za ovaj sat je:",
+    "timestamp": 1762978865039,
+    "_id": "C3gZpba12YvU70JZ"
+  },
+  {
+    "date": "11/12/2025, 8:44:18 PM",
+    "text": "درود، روز خوبی داشته باشی. عدد شانس ساعتی این است:",
+    "timestamp": 1762980258702,
+    "_id": "CdZRkZdzKBG9JgED"
+  },
+  {
+    "date": "11/12/2025, 8:46:12 PM",
+    "text": "ಶುಭೋದಯ, ನಿಮಗೆ ಒಳ್ಳೆಯ ದಿನವಾಗಲಿ. ಗಂಟೆಯ ಅದೃಷ್ಟ ಸಂಖ್ಯೆ:",
+    "timestamp": 1762980372464,
+    "_id": "D9giA4ySBwiT4I45"
+  },
+  {
+    "date": "11/12/2025, 8:48:23 PM",
+    "text": "Madainn mhath, Guidheam latha snog dhut. Is e an àireamh fortanach san uair:",
+    "timestamp": 1762980503368,
+    "_id": "GxoTVp1ixVVayLhq"
+  },
+  {
+    "date": "11/12/2025, 8:50:41 PM",
+    "text": "Barev Dzez, Ցանկանում եմ Ձեզ լավ օր: Ժամային բախտավոր թիվն է:",
+    "timestamp": 1762980641867,
+    "_id": "HELgyFudbNVSCiBV"
+  },
+  {
+    "date": "11/12/2025, 8:44:07 PM",
+    "text": "สวัสดีครับ/ค่ะ, ขอให้เป็นวันที่ดี. เลขนำโชครายชั่วโมงคือ:",
+    "timestamp": 1762980247086,
+    "_id": "HPcosbNlKR5AfDDy"
+  },
+  {
+    "date": "11/12/2025, 8:20:50 PM",
+    "text": "Jó napot, Kellemes napot kívánok. Az órai szerencseszám:",
+    "timestamp": 1762978850428,
+    "_id": "I4wUDskY68EcmcVk"
+  },
+  {
+    "date": "11/12/2025, 8:45:20 PM",
+    "text": "शुभकामना, तपाईंको दिन शुभ रहोस्। घण्टाको भाग्यमानी संख्या हो:",
+    "timestamp": 1762980320855,
+    "_id": "IPJqzK0QG9MfEeLJ"
+  },
+  {
+    "date": "11/12/2025, 8:20:00 PM",
+    "text": "Goedendag, Wens je een fijne dag. Het geluksgetal van dit uur is:",
+    "timestamp": 1762978800303,
+    "_id": "IusE3Iia7dexAoNN"
+  },
+  {
+    "date": "11/12/2025, 8:42:30 PM",
+    "text": "Bongu, Nawguralek ġurnata sabiħa. In-numru fortunat tas-siegħa huwa:",
+    "timestamp": 1762980150149,
+    "_id": "J4RyJklgg34iNa9N"
+  },
+  {
+    "date": "11/12/2025, 8:47:57 PM",
+    "text": "Bon dia, Et desitjo un bon dia. El número de la sort horària és:",
+    "timestamp": 1762980477934,
+    "_id": "JDYkkzBvcG70kp64"
+  },
+  {
+    "date": "11/12/2025, 8:45:59 PM",
+    "text": "शुभ सकाळ, तुमचा दिवस चांगला जावो. तासाचा लकी नंबर आहे:",
+    "timestamp": 1762980359007,
+    "_id": "JSign6edScmjFRew"
+  },
+  {
+    "date": "11/12/2025, 8:50:29 PM",
+    "text": "Muli bwanji, Ndikukufunira tsiku labwino. Nambala yanu yamwayi pa ora ndi:",
+    "timestamp": 1762980629600,
+    "_id": "K2r4JKDcLmewHKnC"
+  },
+  {
+    "date": "11/12/2025, 8:47:32 PM",
+    "text": "Kahiaka, Makemake au iā 'oe i kahi lā maika'i. ʻO ka helu laki o ka hola kēia:",
+    "timestamp": 1762980452157,
+    "_id": "KDyC5upwlnno3PnU"
+  },
+  {
+    "date": "11/12/2025, 8:48:33 PM",
+    "text": "Добар ден, Ви посакувам убав ден. Среќниот број на часот е:",
+    "timestamp": 1762980513850,
+    "_id": "KH1gkZk4KEJu6oiZ"
+  },
+  {
+    "date": "11/12/2025, 8:42:11 PM",
+    "text": "Laba diena, Linkiu tau geros dienos. Šios valandos laimingas skaičius yra:",
+    "timestamp": 1762980131288,
+    "_id": "KXRaXRaNOehFQEG1"
+  },
+  {
+    "date": "11/12/2025, 8:43:22 PM",
+    "text": "शुभ प्रभात, आपका दिन शुभ हो। प्रति घंटा भाग्यशाली अंक है:",
+    "timestamp": 1762980202184,
+    "_id": "KYuXIqQr5NOABCKQ"
+  },
+  {
+    "date": "11/12/2025, 8:49:31 PM",
+    "text": "Assalomu alaykum, Sizga yaxshi kun tilayman. Soatlik omadli raqam:",
+    "timestamp": 1762980571300,
+    "_id": "KZBDyRKiQrxneN2u"
+  },
+  {
+    "date": "11/12/2025, 8:20:38 PM",
+    "text": "Bună ziua, Îți doresc o zi frumoasă. Numărul norocos al orei este:",
+    "timestamp": 1762978838895,
+    "_id": "LRUTl5iAYwQIVioE"
+  },
+  {
+    "date": "11/12/2025, 8:21:18 PM",
+    "text": "Добар дан, Желим ти леп дан. Срећан број овог сата је:",
+    "timestamp": 1762978878743,
+    "_id": "NBNFgOn9YMF1hBby"
+  },
+  {
+    "date": "11/12/2025, 8:42:43 PM",
+    "text": "Dydd da, Dymunaf ddiwrnod braf i chi. Rhif lwcus yr awr yw:",
+    "timestamp": 1762980163197,
+    "_id": "Ncwo9WF3DSWhpncb"
+  },
+  {
+    "date": "11/12/2025, 8:44:54 PM",
+    "text": "בוكر טוב, מאחל לך יום נעים. המספר המזל השעתי הוא:",
+    "timestamp": 1762980294464,
+    "_id": "QBXYmVJUdMkINYxT"
+  },
+  {
+    "date": "11/12/2025, 8:47:38 PM",
+    "text": "Mālō le soifua, Manuia le aso. O le numera laki i le itula:",
+    "timestamp": 1762980458118,
+    "_id": "QW5TEqzhrqPBrjg4"
+  },
+  {
+    "date": "11/12/2025, 8:19:54 PM",
+    "text": "Witaj, Życzę miłego dnia. Godzinna szczęśliwa liczba to:",
+    "timestamp": 1762978794393,
+    "_id": "QX78Lc0C4bSoGsar"
+  },
+  {
+    "date": "11/12/2025, 8:45:29 PM",
+    "text": "நற்காலை, உங்களுக்கு ஒரு நல்ல நாள் அமைய வாழ்த்துக்கள். மணிநேர அதிர்ஷ்ட எண்:",
+    "timestamp": 1762980329072,
+    "_id": "Qfiu5lyjLz8unHKh"
+  },
+  {
+    "date": "11/12/2025, 8:50:53 PM",
+    "text": "Nabad, Waxaan kuu rajaynayaa maalin fiican. Lambarka nasiibka leh ee saacadda waa:",
+    "timestamp": 1762980653482,
+    "_id": "QmGCYHpKsAmpZ6bu"
+  },
+  {
+    "date": "11/12/2025, 8:42:36 PM",
+    "text": "Dia duit, Guím lá deas ort. Is é an uimhir ádh uair an chloig:",
+    "timestamp": 1762980156439,
+    "_id": "RqQUj1nb78sf1d52"
+  },
+  {
+    "date": "11/12/2025, 8:19:05 PM",
+    "text": "Buenos días, Que tengas un buen día. El número de la suerte de la hora es:",
+    "timestamp": 1762978745685,
+    "_id": "TRAaUxPQtA8TmOB9"
+  },
+  {
+    "date": "11/12/2025, 8:44:40 PM",
+    "text": "Magandang araw, Sana ay maganda ang araw mo. Ang pang-oras na swerteng numero ay:",
+    "timestamp": 1762980280233,
+    "_id": "UEl4JJ3rNPQqmjVo"
+  },
+  {
+    "date": "11/12/2025, 8:20:20 PM",
+    "text": "Hyvää päivää, Toivotan sinulle mukavaa päivää. Tunnin onnennumero on:",
+    "timestamp": 1762978820224,
+    "_id": "UQpMzGY2jD33Otdu"
+  },
+  {
+    "date": "11/12/2025, 8:49:05 PM",
+    "text": "শুভ সঁকাল, আপোনাৰ দিনটো শুভ হওক। প্ৰতি ঘণ্টাত ভাগ্যৱান সংখ্যাটো হৈছে:",
+    "timestamp": 1762980545431,
+    "_id": "Uf2c0qFHIvnqkta0"
+  },
+  {
+    "date": "11/12/2025, 8:50:15 PM",
+    "text": "Kia pai tō ata, Kia pai tō rā. Ko te tau waimarie o te hāora ko:",
+    "timestamp": 1762980615800,
+    "_id": "UqQ5AWE0G45B5xKH"
+  },
+  {
+    "date": "11/12/2025, 8:19:41 PM",
+    "text": "Bom dia, Desejo-lhe um bom dia. O número da sorte da hora é:",
+    "timestamp": 1762978781430,
+    "_id": "UxlYcHTHiC68HLbG"
+  },
+  {
+    "date": "11/12/2025, 8:20:07 PM",
+    "text": "God dag, Önskar dig en trevlig dag. Timmens turnummer är:",
+    "timestamp": 1762978807362,
+    "_id": "V6TyRHKp32oYXBTr"
+  },
+  {
+    "date": "11/12/2025, 8:20:56 PM",
+    "text": "Dobrý deň, Prajem ti pekný deň. Hodinové šťastné číslo je:",
+    "timestamp": 1762978856287,
+    "_id": "WBdx56cDTG1hlU0L"
+  },
+  {
+    "date": "11/12/2025, 8:50:47 PM",
+    "text": "გამარჯობა, გისურვებთ კარგ დღეს. საათობრივი იღბლიანი რიცხვია:",
+    "timestamp": 1762980647700,
+    "_id": "XCbBoMXgy3blLGAn"
+  },
+  {
+    "date": "11/12/2025, 8:46:42 PM",
+    "text": "Goeiedag, Wens jou 'n mooi dag toe. Die uurlikse gelukkige nommer is:",
+    "timestamp": 1762980402873,
+    "_id": "XvJWSAg503apFUWI"
+  },
+  {
+    "date": "11/12/2025, 8:49:52 PM",
+    "text": "Sugeng enjing, Mugi-mugi dinten panjenengan sae. Nomer bejo per jam yaiku:",
+    "timestamp": 1762980592122,
+    "_id": "Y4MUPxTUg2uJNYHL"
+  },
+  {
+    "date": "11/12/2025, 8:44:32 PM",
+    "text": "Selamat sejahtera, Semoga hari anda indah. Nombor bertuah setiap jam ialah:",
+    "timestamp": 1762980272322,
+    "_id": "agvbe8SUQDoIC7wH"
+  },
+  {
+    "date": "11/12/2025, 8:48:39 PM",
+    "text": "Dober dan, Želim ti lep dan. Urna srečna številka je:",
+    "timestamp": 1762980519915,
+    "_id": "bobhqnKKme7Am675"
+  },
+  {
+    "date": "11/12/2025, 8:44:46 PM",
+    "text": "آداب، آپ کا دن اچھا گزرے۔ فی گھنٹہ خوش قسمت نمبر ہے:",
+    "timestamp": 1762980286925,
+    "_id": "dPGxpqJpXHWAm5cj"
+  },
+  {
+    "date": "11/12/2025, 8:50:04 PM",
+    "text": "Bonjou, Mwen swete ou yon bèl jounen. Nimewo chans pou èdtan an se:",
+    "timestamp": 1762980604576,
+    "_id": "eHc2GPIoIG7a2zrQ"
+  },
+  {
+    "date": "11/12/2025, 8:42:04 PM",
+    "text": "Mirëdita, Të uroj një ditë të këndshme. Numri me fat për orën është:",
+    "timestamp": 1762980124981,
+    "_id": "f7ZysfCMpMu1s17s"
+  },
+  {
+    "date": "11/12/2025, 8:46:50 PM",
+    "text": "Ẹ kú àárọ́, Mo fẹ́ kí o ní ọjọ́ rere. Nọ́ńbà oríire wákàtí ni:",
+    "timestamp": 1762980410143,
+    "_id": "fU4vwVRWComFwRTJ"
+  },
+  {
+    "date": "11/12/2025, 8:43:14 PM",
+    "text": "안녕하십니까, 좋은 하루 되세요. 시간당 행운의 숫자는:",
+    "timestamp": 1762980194409,
+    "_id": "fdkbAS6vYMUD2yJN"
+  },
+  {
+    "date": "11/12/2025, 8:50:23 PM",
+    "text": "Māuruuru, 'Ia 'oe te 'oa'oa i teie mahana. Te numera 'oa'oa o te hora 'o:",
+    "timestamp": 1762980623845,
+    "_id": "g3WXNOY6Y7RY8mzw"
+  },
+  {
+    "date": "11/12/2025, 8:49:11 PM",
+    "text": "އަޅުގަނޑު ސަލާމް، ތިބާއަށް ރަނގަޅު ދުވަހަކަށް އެދެން. ގަޑިއިރުގެ ނަސީބު ލިބޭ ނަންބަރު:",
+    "timestamp": 1762980551703,
+    "_id": "gPFA1qVJpE7dcr7s"
+  },
+  {
+    "date": "11/12/2025, 8:50:10 PM",
+    "text": "ᎣᏏᏉ, ᎣᏍᏓ ᎢᎦ ᎢᏣᎵᏍᏓᏁᏗ. ᏦᎢᏁ ᎢᎦ ᎣᏍᏓ ᎤᏤᎵᏛ ᎾᎥᎢ:",
+    "timestamp": 1762980610416,
+    "_id": "gSn7vM3eHQbVN8FF"
+  },
+  {
+    "date": "11/12/2025, 8:51:05 PM",
+    "text": "Hej, Önskar dig en trevlig dag. Timens turnummer är:",
+    "timestamp": 1762980665749,
+    "_id": "guv1sGcETNfHIv8s"
+  },
+  {
+    "date": "11/12/2025, 8:49:37 PM",
+    "text": "Өглөөний мэнд, Танд сайхан өдрийг хүсье. Цагийн азтай тоо:",
+    "timestamp": 1762980577238,
+    "_id": "hrS6s5mBrig3AQHA"
+  },
+  {
+    "date": "11/12/2025, 8:46:29 PM",
+    "text": "Siyakwamukela, Ngikufisela usuku oluhle. Inombolo yenhlanhla yale hora yile:",
+    "timestamp": 1762980389237,
+    "_id": "i8iKvta5JcRYQr19"
+  },
+  {
+    "date": "11/12/2025, 8:19:34 PM",
+    "text": "Buona giornata, Ti auguro una buona giornata. Il numero fortunato orario è:",
+    "timestamp": 1762978774474,
+    "_id": "ixW9xrFIDBGA5ycD"
+  },
+  {
+    "date": "11/12/2025, 8:46:22 PM",
+    "text": "Jambo, Nakutakia siku njema. Nambari ya bahati ya saa ni:",
+    "timestamp": 1762980382483,
+    "_id": "jcR6HxiyI4iIuu8y"
+  },
+  {
+    "date": "11/12/2025, 8:47:06 PM",
+    "text": "Ina kwana, Ina yi maka fatan alheri a yau. Lambar sa'a ta sa'a ita ce:",
+    "timestamp": 1762980426442,
+    "_id": "jv7PbVjIfbvj8Gww"
+  },
+  {
+    "date": "11/12/2025, 8:19:14 PM",
+    "text": "Bonjour, Je te souhaite une bonne journée. Le numéro chanceux de l'heure est :",
+    "timestamp": 1762978754759,
+    "_id": "kQcEw9f60MswFC9N"
+  },
+  {
+    "date": "11/12/2025, 8:42:48 PM",
+    "text": "Góðan dag, Óska þér góðan dag. Lukkutalan á klukkustundinni er:",
+    "timestamp": 1762980168619,
+    "_id": "lTbpRsWWooHBud6i"
+  },
+  {
+    "date": "11/12/2025, 8:48:16 PM",
+    "text": "Goeie dag, Wens je een fijne dag. Het geluksgetal van dit uur is:",
+    "timestamp": 1762980496950,
+    "_id": "lsryf2gn48p2ohib"
+  },
+  {
+    "date": "11/12/2025, 8:48:10 PM",
+    "text": "Bos días, Deséxoche un bo día. O número da sorte por hora é:",
+    "timestamp": 1762980490083,
+    "_id": "n4XliCUygS2Oz3t6"
+  },
+  {
+    "date": "11/12/2025, 8:20:13 PM",
+    "text": "Χαιρετίσματα, Σου εύχομαι μια καλή μέρα. Ο ωριαίος τυχερός αριθμός είναι:",
+    "timestamp": 1762978813300,
+    "_id": "nmkA3GOgeiWRn9dA"
+  },
+  {
+    "date": "11/12/2025, 8:19:48 PM",
+    "text": "Приветствую, Желаю тебе хорошего дня. Почасовое счастливое число:",
+    "timestamp": 1762978788025,
+    "_id": "nn6ifK70ebs0mXdP"
+  },
+  {
+    "date": "11/12/2025, 8:50:35 PM",
+    "text": "ደሓንዶ መዓልቲ ይምነየልካ. ናይ ሰዓት ዕድለኛ ቁጽሪ:",
+    "timestamp": 1762980635991,
+    "_id": "ouD5LJ9AqhHJlzl6"
+  },
+  {
+    "date": "11/12/2025, 8:46:04 PM",
+    "text": "શુભ પ્રભાત, તમારો દિવસ સારો રહે. કલાકનો ભાગ્યશાળી નંબર છે:",
+    "timestamp": 1762980364599,
+    "_id": "pJ4zd2g1kKGwtY51"
+  },
+  {
+    "date": "11/12/2025, 8:48:28 PM",
+    "text": "Dobar dan, Želim ti ugodan dan. Sretni broj za ovaj sat je:",
+    "timestamp": 1762980508776,
+    "_id": "pPuGtMPfvw0jbVne"
+  },
+  {
+    "date": "11/12/2025, 8:49:18 PM",
+    "text": "بەیانی باش، هیوای ڕۆژێکی خۆشت بۆ دەخوازم. ژمارەی بەختی کاتژمێری:",
+    "timestamp": 1762980558520,
+    "_id": "qCh647Z1h20HJBGt"
+  },
+  {
+    "date": "11/12/2025, 8:43:02 PM",
+    "text": "您好, 祝你有个美好的一天。本小时的幸运数字是:",
+    "timestamp": 1762980182439,
+    "_id": "qJi6ZBPs4XI2j1KW"
+  },
+  {
+    "date": "11/12/2025, 8:48:57 PM",
+    "text": "ଶୁଭ ସକାଳ, ଆପଣଙ୍କ ଦିନ ଶୁଭ ହେଉ। ଘଣ୍ଟା ପ୍ରତି ଭାଗ୍ୟଶାଳୀ ସଂଖ୍ୟା ହେଉଛି:",
+    "timestamp": 1762980537300,
+    "_id": "qQJXMSuSneq5mYnk"
+  },
+  {
+    "date": "11/12/2025, 8:45:08 PM",
+    "text": "ជំរាបសួរ, សូមជូនពរឱ្យអ្នកមានថ្ងៃល្អ។ លេខសំណាងប្រចាំម៉ោងគឺ:",
+    "timestamp": 1762980308488,
+    "_id": "qerboCNbWUi8bivI"
+  },
+  {
+    "date": "11/12/2025, 8:49:25 PM",
+    "text": "Қайырлы күн, Сізге жақсы күн тілеймін. Сағаттық сәтті саны:",
+    "timestamp": 1762980565735,
+    "_id": "rxNT9wKtflOOcqHg"
+  },
+  {
+    "date": "11/12/2025, 8:45:36 PM",
+    "text": "శుభోదయం, మీకు శుభ దినం. గంటవారీ అదృష్ట సంఖ్య:",
+    "timestamp": 1762980336488,
+    "_id": "sJpLYkGvXNfL0rE6"
+  },
+  {
+    "date": "11/12/2025, 8:47:19 PM",
+    "text": "Manahoana, Mirary anao andro mahafinaritra. Ny isa tsara vintana isan'ora dia:",
+    "timestamp": 1762980439603,
+    "_id": "wuabWTrugcRxfPVn"
+  },
+  {
+    "date": "11/12/2025, 8:49:44 PM",
+    "text": "བཀྲ་ཤིས་བདེ་ལེགས། ཁྱེད་ལ་ཉིན་མོ་སྐྱིད་པོ་ཞིག་ཡོང་བའི་སྨོན་འདུན་ཞུ། ཆུ་ཚོད་ཀྱི་ལས་བཟང་གྲངས་ཀ་ནི་:",
+    "timestamp": 1762980584336,
+    "_id": "xDKX4UbBF8f5S4Hr"
+  },
+  {
+    "date": "11/12/2025, 8:48:04 PM",
+    "text": "Egun on, Egun on bat opa dizut. Orduko zori-zenbakia hau da:",
+    "timestamp": 1762980484594,
+    "_id": "xtNprgMx1r1U7OBr"
+  },
+  {
+    "date": "11/12/2025, 8:45:14 PM",
+    "text": "ສະບາຍດີຕອນເຊົ້າ, ຂໍໃຫ້ເຈົ້າໂຊກດີໃນມື້ນີ້. ເລກໂຊກດີລາຍຊົ່ວໂມງແມ່ນ:",
+    "timestamp": 1762980314968,
+    "_id": "y7U85RdpXaG1NdmL"
+  },
+  {
+    "date": "11/12/2025, 8:51:11 PM",
+    "text": "Labdien, Novēlu jauku dienu. Šīs stundas laimīgais numurs ir:",
+    "timestamp": 1762980671033,
+    "_id": "yekCqGTtmSGyurBf"
+  },
+  {
+    "date": "11/12/2025, 8:42:17 PM",
+    "text": "Labdien, Novēlu jauku dienu. Šīs stundas laimīgais numurs ir:",
+    "timestamp": 1762980137052,
+    "_id": "zU9jLGuJWs2pd0XA"
+  },
+
+  {
+    "date": "11/12/2025, 8:00:00 PM",
+    "text": "Buenos días, Que tengas un buen día. El número de la suerte de la hora es:",
+    "timestamp": 1762982400000,
+    "_id": "placeholder_1"
+  },
+  {
+    "date": "11/12/2025, 8:00:01 PM",
+    "text": "Bonjour, Je te souhaite une bonne journée. Le numéro chanceux de l'heure est :",
+    "timestamp": 1762982401000,
+    "_id": "placeholder_2"
+  },
+  {
+    "date": "11/12/2025, 8:00:02 PM",
+    "text": "Guten Tag, Ich wünsche dir einen schönen Tag. Die stündliche Glückszahl ist:",
+    "timestamp": 1762982402000,
+    "_id": "placeholder_3"
+  },
+  {
+    "date": "11/12/2025, 8:00:03 PM",
+    "text": "Buona giornata, Ti auguro una buona giornata. Il numero fortunato orario è:",
+    "timestamp": 1762982403000,
+    "_id": "placeholder_4"
+  },
+  {
+    "date": "11/12/2025, 8:00:04 PM",
+    "text": "Bom dia, Desejo-lhe um bom dia. O número da sorte da hora é:",
+    "timestamp": 1762982404000,
+    "_id": "placeholder_5"
+  },
+  {
+    "date": "11/12/2025, 8:00:05 PM",
+    "text": "Приветствую, Желаю тебе хорошего дня. Почасовое счастливое число:",
+    "timestamp": 1762982405000,
+    "_id": "placeholder_6"
+  },
+  {
+    "date": "11/12/2025, 8:00:06 PM",
+    "text": "Goddag, Ønsker dig en god dag. Timens lykkenummer er:",
+    "timestamp": 1762982406000,
+    "_id": "placeholder_7"
+  },
+  {
+    "date": "11/12/2025, 8:00:07 PM",
+    "text": "Χαιρετίσματα, Σου εύχομαι μια καλή μέρα. Ο ωριαίος τυχερός αριθμός είναι:",
+    "timestamp": 1762982407000,
+    "_id": "placeholder_8"
+  },
+  {
+    "date": "11/12/2025, 8:00:08 PM",
+    "text": "Hyvää päivää, Toivotan sinulle mukavaa päivää. Tunnin onnennumero on:",
+    "timestamp": 1762982408000,
+    "_id": "placeholder_9"
+  },
+  {
+    "date": "11/12/2025, 8:00:09 PM",
+    "text": "Bună ziua, Îți doresc o zi frumoasă. Numărul norocos al orei este:",
+    "timestamp": 1762982409000,
+    "_id": "placeholder_10"
+  },
+  {
+    "date": "11/12/2025, 8:00:10 PM",
+    "text": "Dobar dan, Želim ti ugodan dan. Sretni broj za ovaj sat je:",
+    "timestamp": 1762982410000,
+    "_id": "placeholder_11"
+  },
+  {
+    "date": "11/12/2025, 8:00:11 PM",
+    "text": "Добър ден, Желая ти хубав ден. Часовото късметлийско число е:",
+    "timestamp": 1762982411000,
+    "_id": "placeholder_12"
+  },
+  {
+    "date": "11/12/2025, 8:00:12 PM",
+    "text": "Добар дан, Желим ти леп дан. Срећан број овог сата је:",
+    "timestamp": 1762982412000,
+    "_id": "placeholder_13"
+  },
+  {
+    "date": "11/12/2025, 8:00:13 PM",
+    "text": "Laba diena, Linkiu tau geros dienos. Šios valandos laimingas skaičius yra:",
+    "timestamp": 1762982413000,
+    "_id": "placeholder_14"
+  },
+  {
+    "date": "11/12/2025, 8:00:14 PM",
+    "text": "Góðan dag, Óska þér góðan dag. Lukkutalan á klukkustundinni er:",
+    "timestamp": 1762982414000,
+    "_id": "placeholder_15"
+  },
+  {
+    "date": "11/12/2025, 8:00:15 PM",
+    "text": "مساء الخير, أتمنى لك يوماً سعيداً. رقم الحظ الساعي هو:",
+    "timestamp": 1762982415000,
+    "_id": "placeholder_16"
+  },
+  {
+    "date": "11/12/2025, 8:00:16 PM",
+    "text": "בוקר טוב, מאחל לך יום נעים. המספר המזל השעתי הוא:",
+    "timestamp": 1762982416000,
+    "_id": "placeholder_17"
+  },
+  {
+    "date": "11/12/2025, 8:00:17 PM",
+    "text": "Jambo, Nakutakia siku njema. Nambari ya bahati ya saa ni:",
+    "timestamp": 1762982417000,
+    "_id": "placeholder_18"
+  },
+  {
+    "date": "11/12/2025, 8:00:18 PM",
+    "text": "Siyakwamukela, Ngikufisela usuku oluhle. Inombolo yenhlanhla yale hora yile:",
+    "timestamp": 1762982418000,
+    "_id": "placeholder_19"
+  },
+  {
+    "date": "11/12/2025, 8:00:19 PM",
+    "text": "ᎣᏏᏉ, ᎣᏍᏓ ᎢᎦ ᎢᏣᎵᏍᏓᏁᏗ. ᏦᎢᏁ ᎢᎦ ᎣᏍᏓ ᎤᏤᎵᏛ ᎾᎥᎢ:",
+    "timestamp": 1762982419000,
+    "_id": "placeholder_20"
+  },
+  {
+    "date": "11/12/2025, 8:00:20 PM",
+    "text": "ደሓንዶ መዓልቲ ይምነየልካ. ናይ ሰዓት ዕድለኛ ቁጽሪ:",
+    "timestamp": 1762982420000,
+    "_id": "placeholder_21"
+  }
+]
