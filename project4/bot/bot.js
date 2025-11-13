@@ -66,7 +66,7 @@ setInterval( ()=>{
 
     retrieveData()
     
-}, 7200000)
+}, 43200000)
 
 //5400000
 // makeStatus()
